@@ -1,7 +1,7 @@
 ### Olá, meu nome é Isa Maria 👋
 
 - 🔭 Sou apaixonada por tecnologia
-- 🌱 Estudante de Sistemas de Informação
+- 🌱 Estudante de Sistemas de Informação 6/8
 - 👯 Atuo como Desenvolvedora Backend Java na Ci&T
 
 <div align="center">
